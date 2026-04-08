@@ -14,5 +14,5 @@ Construção de dashboards para relatórios interativos e sensíveis.
 Me dedico também em mapeamento e monitoramento de redes, identificando ameaças
 Inspeção de vulnerabilidades e testes de intrusão. 
 Segurança defensiva e ofensiva
-O meus objetivos são a garantir a administração e gerenciamneto de dados, relatórios profissionais e otimizados com a ferramenta Power BI. Além de garantir seus dados trafeguem com segurança com todo controle de acesso e encriptações sensíveis, com integridade e prevenindo contra ataques de injeção impedindo ataques de negação de serviço.
+Meus objetivos são garantir a administração e gerenciamento de dados, relatórios profissionais e otimizados com a ferramenta Power BI. Além de garantir que seus dados trafeguem com segurança e todo controle de acesso e encriptações. Com integridade e prevenindo contra ataques de injeção, impedindo também ataques de negação de serviço.
 
