@@ -6,7 +6,7 @@ Conhecimentos e experiências em: Pacote Office – Windows – Linux – AWS - 
 
 Sou dedicado e focado nas minhas atividades, e adoro desafios.  Estou disposto e capacitado a grandes projetos e propostas.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Gerenciamento de dados e backup com segurança
 Construção de dashboards para relatórios interativos e sensíveis.
